@@ -2,10 +2,10 @@
  "name": "AgriPermana Store",
  "short_name" : "AgriPermana",
  "lang" : "en-US",
- "start_url" : "/",
- "background_color" : "#2C3E50",
- "theme_color" : "#18BC9C",
- "display" : "standalone",
+ "start_url" : "/?utm_source=homescreen",
+ "background_color": "#2C3E50",
+ "theme_color": "#18BC9C",
+ "display": "standalone",
  "icons": [
   {
    "src": "android-icon-36x36.png",
